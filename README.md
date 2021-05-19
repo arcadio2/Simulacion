@@ -1,2 +1,3 @@
 # Simulacion
-Animación fea
+Animación con hilos de Java
+
